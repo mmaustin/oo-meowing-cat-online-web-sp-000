@@ -1,4 +1,4 @@
-Class  Cat 
+Class  Cat
 
   attr_accessor :name
 
